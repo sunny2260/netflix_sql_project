@@ -268,7 +268,7 @@ Overall, this analysis delivers a comprehensive overview of Netflix’s library,
 
 ## Author - Shubham Kumar
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, feel free to get in touch!
 
 - **LinkedIn :** [Connect with me professionally](www.linkedin.com/in/shubham-kumar-014396182)
 - **Email :** [Feel free to connect via email](shubhamkumar8767@gmail.com)
